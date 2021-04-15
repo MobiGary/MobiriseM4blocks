@@ -15,8 +15,7 @@ Simply drop an email to mobigary.contact@gmail.com.
 
 ## <b>Notes</b><br>
 
-This extension currently contians two blocks. More maybe added in the future.
-
+This bootstrap extension (mbrext) currently contians two blocks. More maybe added in the future.
 
 <b>BLOCK 1. MobiGary Configurable Mobirise Bootstrap Menu</b><br><br>
 A Mobirise Bootstrap menu with many configuration settings available from the "gear" configuration icon. It includes:
