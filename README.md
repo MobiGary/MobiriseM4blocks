@@ -1,7 +1,7 @@
 # MobiGary Configurable Mobirise M4 Blocks
 
 ## <b>Latest Version</b><br>
-v1.0 as detailed in the changelog:
+v3.4 as detailed in the changelog:
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/CHANGELOG.md
 
 ## <b>Compatibility</b><br>
