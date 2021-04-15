@@ -2,7 +2,7 @@
 
 ## <b>Latest Version</b><br>
 v1.0 as detailed in the changelog:
-https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/CHANGELOG.md
+https://github.com/MobiGary/MobiriseM4blocks/blob/main/CHANGELOG.md
 
 ## <b>Compatibility</b><br>
 This extension works with Mobirise themes based on Bootstrap 4 (AMP not supported). It might work on other versions, but no guarantees.
