@@ -48,7 +48,7 @@ https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryFloatingContactFo
 Screeenshot of "gear" items here:<br>
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryFloatingContactForm-v1.0.jpg
 
-## <b>Installation and use</b><br>
+## <b>Extension Installation and use</b><br>
 A Mobirise extension (mbrext) file is provided. To install the extension in the Mobirise Builder follow these steps:
 - Select the "Extensions" option from the left hand main menu
 - Select "import"
