@@ -18,7 +18,7 @@ Simply drop an email to mobigary.contact@gmail.com.
 This extension currently contians two blocks. More maybe added in the future.
 
 
-<b>BLOCK 1. Mobirise Configurable Bootstrap Menu</b><br><br>
+<b>BLOCK 1. MobiGary Configurable Mobirise Bootstrap Menu</b><br><br>
 A Mobirise Bootstrap menu with many configuration settings available from the "gear" configuration icon. It includes:
 - Individual colour and opacity settings for Main, Sub and Hamburger menu background.
 - Individual underline colour and thickness for main and sub-menu plus sub-menu % darken on hover.
@@ -36,7 +36,7 @@ In summary, you can configure more options on the gear icon than you can with th
 Screeenshot of "gear" items here:
 https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.7.jpg
 
-<b>BLOCK 2. MobiGary Mobirise Configurable Bootstrap Floating Contact Form for witsec Mailform Extension v11</b> (https://witsec.nl/extension-mailform.html)<br><br>
+<b>BLOCK 2. MobiGary Configurable Mobirise Bootstrap Floating Contact Form for witsec Mailform Extension v11</b> (https://witsec.nl/extension-mailform.html)<br><br>
 A Mobirise Bootstrap floating contact form block with many configuration settings available from the "gear" configuration icon. 
 Note: The installation and configuration of the witsec mailform v11 is a prerequisite for using this block.
 
