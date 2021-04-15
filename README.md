@@ -14,6 +14,11 @@ Feel free to give it a try if you are a Mobirise Bootstrap 4 user either using M
 Simply drop an email to mobigary.contact@gmail.com.
 
 ## <b>Notes</b><br>
+
+This extensuion currently contians two blocks. More maybe added in the future.
+
+
+<b>1. Mobirise Configurable bootstrap Menu</b>
 A Mobirise Bootstrap menu with many configuration settings available from the "gear" configuration icon. It includes:
 - Individual colour and opacity settings for Main, Sub and Hamburger menu background.
 - Individual underline colour and thickness for main and sub-menu plus sub-menu % darken on hover.
@@ -31,8 +36,15 @@ In summary, you can configure more options on the gear icon than you can with th
 Screeenshot of "gear" items here:
 https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.7.jpg
 
+<b>2. MobiGary Mobirise Configurable Floating Contact Form v1.0 for witsec Mailform Extension v11</b> (https://witsec.nl/extension-mailform.html)
+A Mobirise Bootstrap floating contact form block menu with many configuration settings available from the "gear" configuration icon. 
+Note: The installation and configuration of the witsec mailform v11 is a prerequisite for using this block.
+
+Screeenshot of "gear" items here:
+TBC
+
 ## <b>Installation and use</b><br>
-From v2.6 onwards a Mobirise extension (mbrext) file is provided. To install the extension in the Mobirise Builder follow these steps:
+A Mobirise extension (mbrext) file is provided. To install the extension in the Mobirise Builder follow these steps:
 - Select the "Extensions" option from the left hand main menu
 - Select "import"
 - Browse to the downloaded MobiGaryExtension .mrext file and select "IMPORT ANYWAY" at the unknown source warning
@@ -40,7 +52,4 @@ From v2.6 onwards a Mobirise extension (mbrext) file is provided. To install the
 - To use blocks within the extension locate the "MobiGary" category on the Block-Add screen. Currently this extension contains only one block, the MobiGary Menu. Drag the block onto a project to use.
 Note: This extension is for Mobirise bootstrap 4 projects (AMP not supported). 
 
-Once the block configuration is accessed via the "gear" (cog) icon, all the configuration options are avaiable (see screenshot in link above).
-
-Earlier Versions: Prior to v2.6, a zip file containing a small Mobirise 4.x bootstrap project (created using the Mobirise 4 theme as the base project) was provided. To use the menu, users had to download the zip file, unzip contents to a folder and import into Mobirise as a new project by selecting the "project.mobirise" file for the import process. users could then save the menu from the imported project as a Mobirise "user block" and move between Mobirise bootstrap 4 projects (AMP not supported). 
-
+Once the block configuration is accessed via the "gear" (cog) icon, all the configuration options are avaiable.
