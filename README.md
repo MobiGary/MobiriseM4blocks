@@ -39,6 +39,9 @@ https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryMenuCog-v3.3.jpg
 A Mobirise Bootstrap floating contact form block with many configuration settings available from the "gear" configuration icon. 
 Note: The installation and configuration of the witsec mailform v11 is a prerequisite for using this block.
 
+Screenshot o a sample bloack configuration:
+https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryFloatingContactForm-overview.jpg
+
 Screeenshot of "gear" items here:
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryFloatingContactForm-v1.0.jpg
 
