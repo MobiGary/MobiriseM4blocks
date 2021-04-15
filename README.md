@@ -37,7 +37,7 @@ Screeenshot of "gear" items here:
 https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.7.jpg
 
 <b>BLOCK 2. MobiGary Mobirise Configurable Bootstrap Floating Contact Form for witsec Mailform Extension v11</b> (https://witsec.nl/extension-mailform.html)<br><br>
-A Mobirise Bootstrap floating contact form block menu with many configuration settings available from the "gear" configuration icon. 
+A Mobirise Bootstrap floating contact form block with many configuration settings available from the "gear" configuration icon. 
 Note: The installation and configuration of the witsec mailform v11 is a prerequisite for using this block.
 
 Screeenshot of "gear" items here:
@@ -49,7 +49,7 @@ A Mobirise extension (mbrext) file is provided. To install the extension in the 
 - Select "import"
 - Browse to the downloaded MobiGaryExtension .mrext file and select "IMPORT ANYWAY" at the unknown source warning
 - Once the extension is installed it will show in the catalogue of installed extensions. If you hover ovedr the installed extension it will show version information.
-- To use blocks within the extension locate the "MobiGary" category on the Block-Add screen. Currently this extension contains only one block, the MobiGary Menu. Drag the block onto a project to use.
+- To use blocks within the extension locate the "mobigary" category on the Block-Add screen. Currently this extension contains two blocks. Drag the required block onto a project to use.
 Note: This extension is for Mobirise bootstrap 4 projects (AMP not supported). 
 
 Once the block configuration is accessed via the "gear" (cog) icon, all the configuration options are avaiable.
