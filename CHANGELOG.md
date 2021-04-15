@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 ## Version 1.0 - MobiGaryBlocksExtension-v1.0.mbrext (2021-APRIL-XX)
 - This is the initial release of the MobiGary Mobirise Configurable Blocks Extension for Mobirise. Initially two blocks are included but more maybe added in the future. Various cog options availabe to make settings quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
-  - BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.3.<br>
+  - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.3.</b><br>
     This is the same menu that previously was stored here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu. It has not changed in this released it is now in an extension with multile blocks rather than being and extension just for the MobiGary Menu block.
 
   - BLOCK2 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.0 for witsec Mailform Extension v11.<br>
