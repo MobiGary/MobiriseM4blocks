@@ -13,7 +13,7 @@ Feel free to give it a try if you are a Mobirise Bootstrap 4 user either using M
 ## <b>Need to contact MobiGary?</b><br>
 Simply drop an email to mobigary.contact@gmail.com.
 
-## <b>Notes</b><br>
+## <b>Blocks in the extension</b><br>
 
 This bootstrap extension (mbrext) currently contians two blocks. More maybe added in the future.
 
