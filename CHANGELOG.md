@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Version 1.0 - MobiGaryBlocksExtension-v1.0.mbrext (2021-APRIL-XX)
+## Version 1.0 - MobiGaryM4BlocksExtension-v1.0.mbrext (2021-APRIL-XX)
 - This is the initial release of the MobiGary Configurable Mobirise Blocks Extension. Initially two blocks are included but more maybe added in the future. Various cog options availabe to make settings quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
   - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.3.</b><br>
