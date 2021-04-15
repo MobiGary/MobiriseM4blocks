@@ -15,7 +15,7 @@ Simply drop an email to mobigary.contact@gmail.com.
 
 ## <b>Notes</b><br>
 
-This extensuion currently contians two blocks. More maybe added in the future.
+This extension currently contians two blocks. More maybe added in the future.
 
 
 <b>1. Mobirise Configurable bootstrap Menu</b>
