@@ -32,17 +32,17 @@ A Mobirise Bootstrap menu with many configuration settings available from the "g
 
 In summary, you can configure more options on the gear icon than you can with the standard menus. This was a personal training exercise for me to configure gear items and also upload to GitHub.
 
-Screeenshot of "gear" items here:
+Screeenshot of "gear" items here:<br>
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryMenuCog-v3.3.jpg
 
 <b>BLOCK 2. MobiGary Configurable Mobirise Bootstrap Floating Contact Form for witsec Mailform Extension v11</b> (https://witsec.nl/extension-mailform.html)<br><br>
 A Mobirise Bootstrap floating contact form block with many configuration settings available from the "gear" configuration icon. 
 Note: The installation and configuration of the witsec mailform v11 is a prerequisite for using this block.
 
-Screenshot o a sample bloack configuration:
+Screenshot o a sample bloack configuration:<br>
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryFloatingContactForm-overview.jpg
 
-Screeenshot of "gear" items here:
+Screeenshot of "gear" items here:<br>
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryFloatingContactForm-v1.0.jpg
 
 ## <b>Installation and use</b><br>
