@@ -23,6 +23,6 @@ All notable changes to this project will be documented in this file.
   - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.0 for witsec Mailform Extension v11.</b><br>
     - The first version of the configurable floating block that requires the witsec mailform v11 ((https://witsec.nl/extension-mailform.html) as a prerequisite.
 
-## Hstorical changelog details for the MobiGary Configurable Mobirise Bootstrap Menu prior when it was an singe block extension in its own separate Github repository
+## Hstorical changelog details for the MobiGary Configurable Mobirise Bootstrap Menu prior to v3.4 when it was an singe block extension in its own separate Github repository
 -  Historical changes for the MobiGary Configurable Menu are detailed in the old changelog: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/CHANGELOG.md
 
