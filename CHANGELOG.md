@@ -9,7 +9,8 @@ All notable changes to this project will be documented in this file.
     Unchanged in this release.
 
   - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.1 for witsec Mailform Extension v11.</b><br>
-    Several changes to deal with inconsistencies inherited  in a few Mobirise themes that caused formatting issues to such items as buttons, iconfont, padding and margins. 
+    Several changes to deal with inconsistencies inherited  in a few Mobirise themes that caused formatting issues to such items as buttons, iconfont, padding and margins.
+    Added new submit button and field text padding options on the gear icon slider.
     It requires the witsec mailform v11 ((https://witsec.nl/extension-mailform.html) as a prerequisite.
 
 
