@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 3.6- MobiGaryExtension-v3.5.mbrext (2021-JULY-31)
+- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
+
+  - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.3.</b><br>
+    - Unchanged in this release.
+
+  - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.2 for witsec Mailform Extension v11.x</b><br>
+    - Several HTML and CSS changes for "button form launch", "button form toggle fade" and "floating form X close icon position" to allow all work correctly with new Mobirise bootstrap 5 based themes (e.g. "Mobirise 5" or "GlassM5"). These themes no longer use support jQuery and also inherit some CSS setings differenty from style.css than previously. Tested in v5.3.15. This 1.2 verions is compatible with the older M4 themes that use jQuery and the newer M5 bootstrap 5 themes thet dont support jQuery.
+    - As before, it requires the witsec mailform v11.x ((https://witsec.nl/extension-mailform.html) as a prerequisite.
+
+
 ## Version 3.5 - MobiGaryExtension-v3.5.mbrext (2021-APRIL-17)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
