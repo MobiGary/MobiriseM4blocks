@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file.
     - Unchanged in this release.
 
   - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.2 for witsec Mailform Extension v11.x</b><br>
-    - Made block ready for when Mobirise to release live versions of its Bootstrap 5 builder and bootstrap 5 based themes (curently 5.3.15 beta with "Mobirise 5" or "GlassM5"). Several HTML and CSS changes for "button form launch", "button form toggle fade" (new JavaScript in block) and "floating form X close icon position" to allow all to work correctly with new Mobirise bootstrap 5 based themes. These bootstrap 5 based themes no longer use jQuery in latest beta and also inherit some CSS setings differenty from style.css than previously. Tested in builder v5.3.15 beta. This 1.2 verion is compatible with the older M4 themes that use jQuery and the newer M5 bootstrap 5 themes that do not use jQuery.
+    - Made block ready for when Mobirise releases live versions of its Bootstrap 5 builder and bootstrap 5 based themes (curently 5.3.15 beta with "Mobirise 5" or "GlassM5"). Several HTML and CSS changes for "button form launch", "button form toggle fade" (new JavaScript in block) and "floating form X close icon position" to allow all to work correctly with new Mobirise bootstrap 5 based themes. These bootstrap 5 based themes no longer use jQuery in latest beta and also inherit some CSS setings differenty from style.css than previously. Tested in builder v5.3.15 beta. This 1.2 verion is compatible with the older M4 themes that use jQuery and the newer M5 bootstrap 5 themes that do not use jQuery.
     - NOTE: witsec will be releasing a updated v12 of his mailform in the near future that does not use any jQuery.
 
 
