@@ -2,10 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
-## Version 3.6- MobiGaryExtension-v3.6.mbrext (2021-JULY-31)
+## Version 3.6- MobiGaryExtension-v3.6.mbrext (2021-AUGUST-01)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
   - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.4.</b><br>
+    - Made block ready for when Mobirise releases live versions of its Bootstrap 5 builder and bootstrap 5 based themes (curently 5.3.15 beta with "Mobirise 5" or "GlassM5"). Several HTML and CSS changes.
     - NOTE: This bock has an incompatibility with the hamburger menu X (to close menu) not showing correctly when menu is open in hamburger menu in the new bootstrap 5 themes (e.g. 5.3.15 beta with "Mobirise 5" or "GlassM5"). hamburger Menu still opens but does not show the X as previously. Issue is also evident in the standard sandard Mobirise 5 menu. Issue reported to Mobirise.
 
   - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.2 for witsec Mailform Extension v11.x</b><br>
