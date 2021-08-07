@@ -24,7 +24,7 @@ A Mobirise Bootstrap menu with many configuration settings available from the "g
 - Options to enable Buttons, Social icons and Brand Name text within the menu plus controls set the dispaly area width of each.
 - Set Logo size & Set logo size when scrolling down page options.
 - Allows alignment of main menu when is desktop mode to eitehr left, center or right. Menu item spacing slider also provided.
-- Menu undrline options.
+- Menu underline options.
 - Main Menu and Sub Menu underline options.
 - Sub Menu rounded corner optons.
 - Main and Sub Menu Box shadow (inner and outer) options.
