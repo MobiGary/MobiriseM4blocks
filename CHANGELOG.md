@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 3.7 - MobiGaryExtension-v3.7.mbrext (2021-AUGUST-10)
+- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
+
+  - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.4.</b><br>
+    - Unchanged in this release.
+
+  - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.2 for witsec Mailform Extension v11.x</b><br>
+    - Changed block help to correct code for launching form from an iconfont.
+    - Added extra option in block help xplain how to launch form from a regular Mobirise Builder link "..." option.
+    - Changed z-index of floating button to 5001 from 5000 so it is always on top of floating form (which is set to 5000) if they overlap.
+    - Added an extra line of code to togglefade javascript (which opens and closes the floating form) to prevent the web browser initiating a "back to top" action on the page when form launched under certian situations.
+
+
 ## Version 3.6 - MobiGaryExtension-v3.6.mbrext (2021-AUGUST-01)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
