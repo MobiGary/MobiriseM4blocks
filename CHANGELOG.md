@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file.
     - Unchanged in this release.
 
   - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.2 for witsec Mailform Extension v11.x</b><br>
-    - Changed block help to correct code (it previously had a missing double quote) for launching floating form from an iconfont.
+    - Changed block help to correct code for launching floating form from an iconfont (it previously had a missing double quote).
     - Added extra option in block help xplain how to launch form from a regular Mobirise Builder link "..." option.
     - Changed z-index of floating button to 5001 from 5000 so it is always on top of floating form (which is set to 5000) if they overlap.
     - Added an extra line of code to togglefade javascript (which opens and closes the floating form) to prevent the web browser initiating a "back to top" action on the page when form launched under certian situations.
