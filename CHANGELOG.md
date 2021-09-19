@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 3.8 - MobiGaryExtension-v3.7.mbrext (2021-SEPTEMBER-19)
+- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
+
+  - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.4.</b><br>
+    - Unchanged in this release.
+
+  - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.4 for witsec Mailform Extension v12.x</b><br>
+    - File Upload Option - added new "File Upload" gear icon option to match new feature available in witsec mailform v12 (release versi
+    - File Upload Option - added X & Y gear icon positioning for the new file upload button so it can be finely adjusted as required in the different Mobirise M4 and M5 themes. Unfortunately different themes makes a "one size fits all" alignment difficult, so adding the sliders seems the best approach.
+    - File Upload Option - added various file upload button styling options. 
+    - Floating Button Positioning - modified X and Y axis positioning gear icon sliders to allow in increments of 1px rather than 5px (in previous version) to allow even greater positioning flexibility of the floating button.
+    - Floating Form Positioning - modified X and Y axis positioning gear icon sliders to allow in increments of 1px rather than 5px (in previous version) to allow even greater positioning flexibility of the floating form.
+    - Advanced - added new "Advanced" section of gear icon which contain a new option "Show Message Topic" which is a "select" type field. To customize the contents of the select options presented, usage of a code editor is required to edit the block HTML. This is why it has been placed in an "Advanced" category as not all users will have a code editor or be comfortable making those changes. The new option is OFF by default.
+    - General - reordered some of the gear icon options to tidy things up and make it easier to spot particular groups of settings.
+    - HTML changes - set bottom padding on each main field "pb-1" instead of "pb-2" (in previous version) to bring fields slightly closer together and therefore use less screen real-estate.
+    - Prerequisites: This version of the the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
+
 ## Version 3.7 - MobiGaryExtension-v3.7.mbrext (2021-AUGUST-10)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
