@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file.
 
   - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.4 for witsec Mailform Extension v12.x</b><br>
     - **UPDATED FOLLOWING THE RELEASE OF WITSEC MAILFORM V12**
-    - File Upload Option - added new "File Upload" gear icon option to match new feature available in witsec mailform v12 (release versi
+    - File Upload Option - added new "File Upload" gear icon option to match new feature available in witsec mailform v12 (release version)
     - File Upload Option - added X & Y gear icon positioning for the new file upload button so it can be finely adjusted as required in the different Mobirise M4 and M5 themes. Unfortunately different themes makes a "one size fits all" alignment difficult, so adding the sliders seems the best approach.
     - File Upload Option - added various file upload button styling options. 
     - Floating Button Positioning - modified X and Y axis positioning gear icon sliders to allow in increments of 1px rather than 5px (in previous version) to allow even greater positioning flexibility of the floating button.
