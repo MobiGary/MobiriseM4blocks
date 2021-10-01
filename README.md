@@ -43,7 +43,7 @@ A Mobirise Bootstrap floating contact form block with many configuration setting
 Note: The installation and configuration of the witsec mailform v12.x is a prerequisite for using this block.
 
 Screenshot of a sample block configuration:<br>
-https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryFloatingContactFrmOverview.jpg
+https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryFloatingContactFrmOverview2.jpg
 
 Screeenshot of "gear" items here:<br>
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryFloatingContactFrmCog-v1.1.jpg
