@@ -40,7 +40,7 @@ https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryMenuCog-v3.3.jpg
 
 <b>BLOCK 2. MobiGary Configurable Mobirise Bootstrap Floating Contact Form for witsec Mailform Extension v11.x or v12.x</b> (https://witsec.nl/extension-mailform.html)<br><br>
 A Mobirise Bootstrap floating contact form block with many configuration settings available from the "gear" configuration icon. 
-Note: The installation and configuration of the witsec mailform v11.x or v12.x is a prerequisite for using this block.
+Note: The installation and configuration of the witsec mailform v12.x is a prerequisite for using this block.
 
 Screenshot of a sample block configuration:<br>
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryFloatingContactFrmOverview.jpg
