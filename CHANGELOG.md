@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file.
     - Unchanged in this release.
 
   - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.4 for witsec Mailform Extension v12.x</b><br>
-    - Updated to move the JavaScript that controls the togglefade loading and closing of the floating form from the block HTML to a JS plugin. This avoids any accidental changes (or deletion) to the JavaScript if users are editing the block HTML
+    - Moved the JavaScript that controls the loading and closing of the floating form out of the block HTML to a JS plugin. This avoids any accidental changes (or deletion) to the JavaScript if users are editing the block HTML
     - Prerequisites: This version of the the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
 ## Version 3.8 - MobiGaryExtension-v3.8.mbrext (2021-SEPTEMBER-19)
