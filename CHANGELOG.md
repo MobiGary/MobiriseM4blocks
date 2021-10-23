@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file.
     - Modified menu block HTML to allow a link from the menu icons (if enabled) to close the mobile hamburger menu corectly if the link is to a block on the page. Previously, in mobile hambuger mode, a link to a block on the page from an icon in the menu would correctly skip to the block specified, but would not close the menu itself. This icon DIV was originally intended to link to external resources only (e.g. for social media) so this was not an issue if only used for an external URL. 
     
   - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.6 for witsec Mailform Extension v12.x</b><br>
-    - Modified the wording in the floating block if "reCAPTCHA Terms" is enabled in the gear icon. The wording now matches the exact requirements specified by google should you wish to hide the recaptcha v3 badge in witsec mailform site settings. Further information here: https://developers.google.com/recaptcha/docs/faq - "I'd like to hide the reCAPTCHA badge. What is allowed?"
+    - Modified the wording in the floating block if "reCAPTCHA Terms" is enabled in the gear icon. The wording now matches the exact requirements specified by google should you wish to hide the recaptcha v3 badge in witsec mailform site settings. Further information URL here: https://developers.google.com/recaptcha/docs/faq - "I'd like to hide the reCAPTCHA badge. What is allowed?"
     - Prerequisites: This version of the the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
 ## Version 3.9 - MobiGaryExtension-v3.9.mbrext (2021-OCTOBER-01)
