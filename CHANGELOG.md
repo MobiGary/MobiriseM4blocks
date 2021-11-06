@@ -12,6 +12,8 @@ All notable changes to this project will be documented in this file.
     - Modified the wording in the floating block if "reCAPTCHA Terms" is enabled in the gear icon. The wording now matches the exact requirements specified by google should you wish to hide the recaptcha v3 badge in witsec mailform site settings. Further information URL here: https://developers.google.com/recaptcha/docs/faq - "I'd like to hide the reCAPTCHA badge. What is allowed? section"
     - Prerequisites: This version of the the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
+**Download**: https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryExtension-v4.0.mbrext
+
 ## Version 3.9 - MobiGaryExtension-v3.9.mbrext (2021-OCTOBER-01)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
