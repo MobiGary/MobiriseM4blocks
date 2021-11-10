@@ -5,14 +5,14 @@ All notable changes to this project will be documented in this file.
 ## Version 4.1 - MobiGaryExtension-v4.1.mbrext (2021-NOVEMBER-10)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
-  - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.5.</b><br>
+  - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.6.</b><br>
     - Added "Menu Top Margin on scroll sticky px" gear icon option for users who wish to have a gap appear above the menu when scrolled if “MM Sticky” and “Menu Top Margin on scroll sticky px” are configured. The default for “Menu Top Margin on scroll sticky px” is 0 so no gap is shown by default when “MM Sticky” selected.
     - Fixed a menu transparency issue. If "MM transparent" is enabled the menu will be transparent before it is scrolled. Once scrolled it will then use the opacity setting configured in "MM BG Opacity" slider.
     - Fixed an issue regarding menu background color if "MM Collapsed" is selected. The "MM BG Color" configuration is now used for collapsed menus in addition to non-collapsed menus.
     - Fixed an issue regarding social icon alignment (if icons enabled) when menu has "MM Collapsed" selected.
  
     
-  - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.6 for witsec Mailform Extension v12.x</b><br>
+  - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.7 for witsec Mailform Extension v12.x</b><br>
     - Added 4 new slider control settings to the gear icon which enables fine control of the font used for input fields and the file upload button (if enabled). These are contained in the existing "Form font sizes and weights" section of the gear icon: "Input Field Text Size", "Input Field Text Weight", "File Upload Text Size" & "File Upload Text Weight"
     - **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
