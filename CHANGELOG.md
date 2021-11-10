@@ -14,7 +14,7 @@ All notable changes to this project will be documented in this file.
     
   - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.6 for witsec Mailform Extension v12.x</b><br>
     - Added 4 new slider control settings to the gear icon which enables fine control of the font used for input fields and the file upload button (if enabled). These are contained in the existing "Form font sizes and weights" section of the gear icon: "Input Field Text Size", "Input Field Text Weight", "File Upload Text Size" & "File Upload Text Weight"
-    - **Prerequisites**: This version of the the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
+    - **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
 **Download**: https://github.com/MobiGary/MobiriseM4blocks/raw/main/MobiGaryExtension-v4.1.mbrext
 
@@ -26,7 +26,7 @@ All notable changes to this project will be documented in this file.
     
   - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.6 for witsec Mailform Extension v12.x</b><br>
     - Modified the wording in the floating block if "reCAPTCHA Terms" is enabled in the gear icon. The wording now matches the exact requirements specified by google should you wish to hide the recaptcha v3 badge in witsec mailform site settings. Further information URL here: https://developers.google.com/recaptcha/docs/faq - "I'd like to hide the reCAPTCHA badge. What is allowed? section"
-    - Prerequisites: This version of the the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
+    - Prerequisites: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
 
 ## Version 3.9 - MobiGaryExtension-v3.9.mbrext (2021-OCTOBER-01)
@@ -37,7 +37,7 @@ All notable changes to this project will be documented in this file.
 
   - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.5 for witsec Mailform Extension v12.x</b><br>
     - Moved the JavaScript that controls the loading and closing of the floating form out of the block HTML to a JS plugin. This avoids any accidental changes (or deletion) to the JavaScript if users are editing the block HTML
-    - Prerequisites: This version of the the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
+    - Prerequisites: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
 ## Version 3.8 - MobiGaryExtension-v3.8.mbrext (2021-SEPTEMBER-19)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
@@ -55,7 +55,7 @@ All notable changes to this project will be documented in this file.
     - Advanced - added new "Advanced" section of gear icon which contain a new option "Show Message Topic" which is a "select" type field. To customize the contents of the select options presented, usage of a code editor is required to edit the block HTML. This is why it has been placed in an "Advanced" category as not all users will have a code editor or be comfortable making those changes. The new option is OFF by default.
     - General - reordered some of the gear icon options to tidy things up and make it easier to spot particular groups of settings.
     - HTML changes - set bottom padding on each main field "pb-1" instead of "pb-2" (in previous version) to bring fields slightly closer together and therefore use less screen real-estate.
-    - Prerequisites: This version of the the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
+    - Prerequisites: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
 ## Version 3.7 - MobiGaryExtension-v3.7.mbrext (2021-AUGUST-10)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
