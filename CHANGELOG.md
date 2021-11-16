@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 4.2 - MobiGaryExtension-v4.1.mbrext (2021-NOVEMBER-16)
+- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
+
+  - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - v3.6.</b><br>
+    - Unchanged in this release.
+     
+  - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" - v1.8 for witsec Mailform Extension v12.x</b><br>
+    - Added 2 new slider controls to the gear icon for the File Upload Button text (if File Upload enabled). These 2 new settings "Button Text Padding Top" & "Button Text Padding Bottom" enable fine control of the top and bottom padding of the "Upload File" button text.
+    - Set the font family in CSS for the File Upload Button Text to "font-family: Arial, Helvetica, sans-serif". This resolves an issue seen in Mobirise M5 themed projects which use a font with long tails on lower case letters such as the letter "f" in the "Calligraffirri" font.
+    
+    - **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
+
+**Download**: https://github.com/MobiGary/MobiriseM4blocks/raw/main/MobiGaryExtension-v4.2.mbrext
+
 ## Version 4.1 - MobiGaryExtension-v4.1.mbrext (2021-NOVEMBER-10)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
@@ -16,7 +30,7 @@ All notable changes to this project will be documented in this file.
     - Added 4 new slider control settings to the gear icon which enables fine control of the font used for input fields and the file upload button (if enabled). These are contained in the existing "Form font sizes and weights" section of the gear icon: "Input Field Text Size", "Input Field Text Weight", "File Upload Text Size" & "File Upload Text Weight"
     - **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
-**Download**: https://github.com/MobiGary/MobiriseM4blocks/raw/main/MobiGaryExtension-v4.1.mbrext
+
 
 ## Version 4.0 - MobiGaryExtension-v4.0.mbrext (2021-OCTOBER-23)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
