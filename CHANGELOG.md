@@ -5,10 +5,10 @@ All notable changes to this project will be documented in this file.
 ## Version 4.2 - MobiGaryExtension-v4.2.mbrext (2021-NOVEMBER-16)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
-  - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - v3.6.</b><br>
-    - Block unchanged in this v4.2 extension release.
+  - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.6.</b><br>
+    - Block unchanged in this v4.2 extension release. Block remains at v3.6.
      
-  - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" - v1.8 for witsec Mailform Extension v12.x</b><br>
+  - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" - block v1.8 for witsec Mailform Extension v12.x</b><br>
     - Added 2 new slider controls to the gear icon for the file upload button text (if file upload enabled). These 2 new settings "Button Text Padding Top" & "Button Text Padding Bottom" enable fine control of the top and bottom padding of the "Choose File(s)" text actually on the upload button.<br>
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/upload-btn-txt-padding.jpg)
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/upload-btn.jpg)
