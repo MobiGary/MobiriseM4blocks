@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file.
     - Unchanged in this release.
      
   - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" - v1.8 for witsec Mailform Extension v12.x</b><br>
-    - Added 2 new slider controls to the gear icon for the file upload button text (if file upload enabled). These 2 new settings "Button Text Padding Top" & "Button Text Padding Bottom" enable fine control of the top and bottom padding of the "Upload File(s)" text actually on the upload button.
+    - Added 2 new slider controls to the gear icon for the file upload button text (if file upload enabled). These 2 new settings "Button Text Padding Top" & "Button Text Padding Bottom" enable fine control of the top and bottom padding of the "Upload File(s)" text actually on the upload button.<br>
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/upload-btn.jpg)
     - Set the font family in CSS for the File Upload Button Text to "font-family: Arial, Helvetica, sans-serif". This resolves an issue seen in Mobirise M5 themed projects which use a font with long tails on lower case letters such as the letter "f" in the "Calligraffirri" font.    
     - **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
