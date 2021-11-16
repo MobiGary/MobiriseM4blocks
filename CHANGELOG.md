@@ -13,7 +13,7 @@ All notable changes to this project will be documented in this file.
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/upload-btn-txt-padding.jpg)
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/upload-btn.jpg)
     - Set the font family in CSS for the "Choose file(s)" file upload button text to "font-family: Arial, Helvetica, sans-serif". This resolves an issue seen in Mobirise M5 themed projects which use a font with long tails on lower case letters such as the letter "f" in the "Calligraffirri" font.    
-    - **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
+**Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
 **Download**: https://github.com/MobiGary/MobiriseM4blocks/raw/main/MobiGaryExtension-v4.2.mbrext
 
