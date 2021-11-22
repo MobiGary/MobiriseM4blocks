@@ -8,7 +8,7 @@ All notable changes to this project will be documented in this file.
   - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.6.</b><br>
     - Block unchanged in this v4.2 extension release. Block remains at v3.6.
 
-The gear icon fields avaiable in this version of the block can bee seen here:.
+The gear icon fields avaiable in this version of the block can bee seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configurable-menu-v3.6.jpg.
      
   - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" for witsec Mailform Extension v12.x - Block v1.9.</b><br>
     - Reordered and regrouped some gear icon items to make it aser to find things.<br>
