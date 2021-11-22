@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 4.3 - MobiGaryExtension-v4.3.mbrext (COMING END NOV 2021)
+- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
+
+  - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.6.</b><br>
+    - Block unchanged in this v4.2 extension release. Block remains at v3.6.
+     
+  - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" for witsec Mailform Extension v12.x - Block v1.9.</b><br>
+    - Reordered and regrouped some gear icon items to make it aser to find things.<br>
+    - Added 3 new  gear icon settings "Bar Text Padding Top", "Bar Text Padding Bottom" & "Bar Close X Position" to allow fine control of "Contact Us" text and X close button in the top bar for floating form. 
+    - Added new gear icon setting "Border box-shadow Color" to allow uses to select the box-shadow color (if enabled). It was set in CSS as black previously.
+    - Added 3 new gear icon settings ""Field Border Thickness", "Field Border Hover Color" & "Field Border Hover Thickness" to allow selection (if field border enabled) of field border color and thickness plus field border hover colour and thickness.
+    - The fields avaiabel can bee seen here.
+
+     
+**Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
+
+**Download**: COMING SOON
+
 ## Version 4.2 - MobiGaryExtension-v4.2.mbrext (2021-NOVEMBER-16)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
