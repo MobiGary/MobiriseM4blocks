@@ -16,7 +16,7 @@ All notable changes to this project will be documented in this file.
     - Added new gear icon setting "Border box-shadow Color" to allow uses to select the box-shadow color (if enabled). It was set in CSS as black previously.
     - Added 3 new gear icon settings ""Field Border Thickness", "Field Border Hover Color" & "Field Border Hover Thickness" to allow selection (if field border enabled) of field border color and thickness plus field border hover colour and thickness.
 
-The gear icon fields avaiable in this version of the block can bee seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
+  The gear icon fields avaiable in this version of the block can bee seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
      
 **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
