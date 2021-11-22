@@ -15,6 +15,8 @@ All notable changes to this project will be documented in this file.
     - Added 3 new  gear icon settings "Bar Text Padding Top", "Bar Text Padding Bottom" & "Bar Close X Position" to allow fine control of "Contact Us" text and "X" close button in the top bar for floating form. 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/bar-settings-v1.9.jpg)
     - Added new gear icon setting "Border box-shadow Color" to allow uses to select the box-shadow color (if enabled). It was set in CSS as black previously.
+![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/border-box-shadow-col-v1.9.jpg)
+
     - Added 3 new gear icon settings "Field Border Thickness", "Field Border Hover Color" & "Field Border Hover Thickness" to allow selection (if field border enabled) of field border color and thickness plus field border hover colour and thickness.
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/field-border-v1.9.jpg)
 
