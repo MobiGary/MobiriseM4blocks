@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
   - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.6.</b><br>
-    - Block unchanged in this v4.2 extension release. Block remains at v3.6.
+    - Block unchanged in this v4.3 extension release. Block remains at v3.6.
 
     The gear icon fields avaiable in this version of the block can bee seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configurable-menu-v3.6.jpg.<br>
      
