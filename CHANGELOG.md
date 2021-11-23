@@ -20,7 +20,7 @@ All notable changes to this project will be documented in this file.
     - Added 3 new gear icon settings "Field Border Thickness", "Field Border Hover Color" & "Field Border Hover Thickness". If "field border" is enabled this will allow the additional settings to be configured:<br>
       - field border thickness (between 1px to 5px in 0.5 increments)<br>
       - field border color when the field is hovered over or selected<br>
-      - field border thickness when the field is hovered over or selected (between 1px to 5px in 0.5 increments). If you do not require the field hover to be different than the regular field border, use the same color and thickness settings for both.<br>
+      - field border thickness when the field is hovered over or selected (between 1px to 5px in 0.5 increments), but if you do not require the field hover to be different, use the same color and thickness settings for both.<br>
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/field-border-v1.9.jpg)<br>
 
     The various gear icon fields available in this version of the block can be seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
