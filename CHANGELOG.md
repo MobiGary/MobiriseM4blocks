@@ -17,7 +17,10 @@ All notable changes to this project will be documented in this file.
     - Added new gear icon setting "Border box-shadow Color" to allow uses to select the box-shadow color (if "border box-shadow" enabled). It was set in CSS as black previously.<br>
 ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/border-box-shadow-col-v1.9.jpg)
 
-    - Added 3 new gear icon settings "Field Border Thickness", "Field Border Hover Color" & "Field Border Hover Thickness" to allow selection (if field border enabled) of field border color and thickness plus field border hover colour and thickness.
+    - Added 3 new gear icon settings "Field Border Thickness", "Field Border Hover Color" & "Field Border Hover Thickness". If "field border" is enabled this will allow the additional settings of:
+    1. field border thickness in regular use
+    2. field border color when the field is hovered over or selected
+    3. field border thickness when the field is hovered over or selected
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/field-border-v1.9.jpg)<br>
 
     The various gear icon fields available in this version of the block can be seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
