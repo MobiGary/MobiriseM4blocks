@@ -18,9 +18,9 @@ All notable changes to this project will be documented in this file.
 ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/border-box-shadow-col-v1.9.jpg)
 
     - Added 3 new gear icon settings "Field Border Thickness", "Field Border Hover Color" & "Field Border Hover Thickness". If "field border" is enabled this will allow the additional settings to be configured:<br>
-      i. field border thickness (between 1px to 5px in 0.5 increments)<br>
-      ii. field border color when the field is hovered over or selected<br>
-      iii. field border thickness when the field is hovered over or selected (between 1px to 5px in 0.5 increments). If you do not require the field hover to be different than the regular field border, use the same color and thickness settings for both.<br>
+      - field border thickness (between 1px to 5px in 0.5 increments)<br>
+      - field border color when the field is hovered over or selected<br>
+      - field border thickness when the field is hovered over or selected (between 1px to 5px in 0.5 increments). If you do not require the field hover to be different than the regular field border, use the same color and thickness settings for both.<br>
 1. A numbered list
   1. A nested numbered list
   2. Which is numbered
