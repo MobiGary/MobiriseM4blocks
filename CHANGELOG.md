@@ -14,10 +14,10 @@ All notable changes to this project will be documented in this file.
     - Reordered and regrouped some gear icon items to make it easer to find options.<br>
     - Added 3 new  gear icon settings "Bar Text Padding Top", "Bar Text Padding Bottom" & "Bar Close X Position" to allow fine control of "Contact Us" text and "X" close button in the top bar of floating form. 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/bar-settings-v1.9.jpg)<br>
-    - Added new gear icon setting "Border box-shadow Color" to allow uses to select the box-shadow color (if "border box-shadow" enabled). It was set in CSS as black previously.<br>
+    - Added new gear icon setting "Border box-shadow Color" to allow users to select the box-shadow color (if "border box-shadow" enabled) which was set in CSS as black previously.<br>
 ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/border-box-shadow-col-v1.9.jpg)
 
-    - Added 3 new gear icon settings "Field Border Thickness", "Field Border Hover Color" & "Field Border Hover Thickness". If "field border" is enabled this will allow the additional settings to be configured:
+    - Added 3 new gear icon settings "Field Border Thickness", "Field Border Hover Color" & "Field Border Hover Thickness". If "field border" is enabled this will allow the additional settings to be configured:<br>
       1. field border thickness (between 1px to 5px in 0.5 increments)
       2. field border color when the field is hovered over or selected
       3. field border thickness when the field is hovered over or selected (between 1px to 5px in 0.5 increments). If you do not require the field hover to be different than the regular field border, use the same color and thickness settings for both.
