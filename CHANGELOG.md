@@ -21,9 +21,9 @@ All notable changes to this project will be documented in this file.
       i. field border thickness (between 1px to 5px in 0.5 increments)<br>
       ii. field border color when the field is hovered over or selected<br>
       iii. field border thickness when the field is hovered over or selected (between 1px to 5px in 0.5 increments). If you do not require the field hover to be different than the regular field border, use the same color and thickness settings for both.<br>
-      1. A numbered list
-    1. A nested numbered list
-    2. Which is numbered
+1. A numbered list
+  1. A nested numbered list
+  2. Which is numbered
 2. Which is numbered
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/field-border-v1.9.jpg)<br>
 
