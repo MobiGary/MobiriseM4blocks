@@ -35,7 +35,7 @@ A Mobirise Bootstrap menu with many configuration settings available from the "g
 In summary, you can configure more options on the gear icon than you can with the standard menus. This was a personal training exercise for me to configure gear items and also upload to GitHub.
 
 Screenshot of a sample block configuration:<br>
-https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryMenu-overview.jpg
+https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryMenu-overview.jpg
 
 Screeenshot of "gear" items here:<br>
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configurable-menu-v3.6.jpg
