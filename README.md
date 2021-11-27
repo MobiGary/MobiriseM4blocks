@@ -38,7 +38,7 @@ Screenshot of a sample block configuration:<br>
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryMenu-overview.jpg
 
 Screeenshot of "gear" items here:<br>
-https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryMenuCog-v3.3.jpg
+https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configurable-menu-v3.6.jpg
 
 
 <b>BLOCK 2. MobiGary Configurable Mobirise Bootstrap Floating Contact Form for witsec Mailform Extension v12.x</b> (https://witsec.nl/extension-mailform.html)<br><br>
