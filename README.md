@@ -49,7 +49,7 @@ Screenshot of a sample block configuration:<br>
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryFloatingContactFrmOverview2.jpg
 
 Screeenshot of "gear" items here:<br>
-https://github.com/MobiGary/MobiriseM4blocks/blob/main/MobiGaryFloatingContactFrmCog-v1.1.jpg
+https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg
 
 ## <b>Extension Installation and use</b><br>
 A Mobirise extension (mbrext) file is provided. To install the extension in the Mobirise Builder follow these steps:
