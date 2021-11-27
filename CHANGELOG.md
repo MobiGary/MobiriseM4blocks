@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Version 4.3 - MobiGaryExtension-v4.3.mbrext (COMING END NOV 2021)
+## Version 4.3 - MobiGaryExtension-v4.3.mbrext (2021-NOVEMBER-27)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
   - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.6.</b><br>
@@ -27,7 +27,7 @@ All notable changes to this project will be documented in this file.
      
     **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
-**Download**: COMING SOON
+**Download**: https://github.com/MobiGary/MobiriseM4blocks/raw/main/MobiGaryExtension-v4.3.mbrext
 
 ## Version 4.2 - MobiGaryExtension-v4.2.mbrext (2021-NOVEMBER-16)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
@@ -43,7 +43,6 @@ All notable changes to this project will be documented in this file.
      
 **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
-**Download**: https://github.com/MobiGary/MobiriseM4blocks/raw/main/MobiGaryExtension-v4.2.mbrext
 
 ## Version 4.1 - MobiGaryExtension-v4.1.mbrext (2021-NOVEMBER-10)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
@@ -53,13 +52,10 @@ All notable changes to this project will be documented in this file.
     - Fixed a menu transparency issue. If "MM transparent" is enabled the menu will be transparent before it is scrolled. Once scrolled it will then use the opacity setting configured in "MM BG Opacity" slider.
     - Fixed an issue regarding menu background color if "MM Collapsed" is selected. The "MM BG Color" configuration is now used for collapsed menus in addition to non-collapsed menus.
     - Fixed an issue regarding social icon alignment (if icons enabled) when menu has "MM Collapsed" selected.
- 
-    
+   
   - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" - v1.7 for witsec Mailform Extension v12.x</b><br>
     - Added 4 new slider control settings to the gear icon which enables fine control of the font used for input fields and the file upload button (if enabled). These are contained in the existing "Form font sizes and weights" section of the gear icon: "Input Field Text Size", "Input Field Text Weight", "File Upload Text Size" & "File Upload Text Weight"
     - **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
-
-
 
 ## Version 4.0 - MobiGaryExtension-v4.0.mbrext (2021-OCTOBER-23)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
@@ -70,7 +66,6 @@ All notable changes to this project will be documented in this file.
   - <b>BLOCK 2: MobiGary Configurable Mobirise Bootstrap Floating Contact Form v1.6 for witsec Mailform Extension v12.x</b><br>
     - Modified the wording in the floating block if "reCAPTCHA Terms" is enabled in the gear icon. The wording now matches the exact requirements specified by google should you wish to hide the recaptcha v3 badge in witsec mailform site settings. Further information URL here: https://developers.google.com/recaptcha/docs/faq - "I'd like to hide the reCAPTCHA badge. What is allowed? section"
     - Prerequisites: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
-
 
 ## Version 3.9 - MobiGaryExtension-v3.9.mbrext (2021-OCTOBER-01)
 - Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
