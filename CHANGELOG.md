@@ -22,8 +22,7 @@ All notable changes to this project will be documented in this file.
     - Added new gear icon settings "Field Background Color", "Field Placeholder Color" & "Field Text Color" to allow greater control of the form input fields.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-field-col-new-v2.0.jpg)<br>
 
-
-    The various gear icon fields available. A sample of the fields available can be seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
+    Various gear icon fields available. A sample of the fields available can be seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
      
     **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
