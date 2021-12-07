@@ -14,8 +14,8 @@ All notable changes to this project will be documented in this file.
     - Added new gear icon setting "Button Shadow Color". Also set it to only display if both "Floating Button [See Block HELP]" and "Button Shadow" options are both enbled.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-button-shadow-col-v2.0.jpg)<br>
     - Added new gear icon setting "Show Spare button". if enabled it will display a second button which is displayed next to the "SEND MESSAGE" submit button. This second button could be configuired in several ways dependant on the website in question. If inserting an icon also, you will need to use a combination of the icon size setting and also the "Send Btn Textt Size" within the gear icon to get the best layout. The example here shows it as a "Telephone" button.<br> 
-    - Modified HTML code so that the delete option is not available on the menu for SEND MESSAGE and SPARE buttons (to stop people deleting accidentally and ensure they control SPARE button on/off via gear icon only).
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-spare-btn-v2.0.jpg)<br>
+     - Modified HTML code so that the delete button option is not available on the Mobirise button menu for "SEND MESSAGE" and "SPARE" buttons. this has been done to prevemt users accidentally deleting a button and to ensure they control SPARE button on/off via gear icon.
     - Added new gear icon setting "Bar Close X Size" to allow fine control over the size of the X top right of the floating form.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-X-close-size-v2.0.jpg)<br>
     - Added new gear icon settings "Field Background Color", "Field Placeholder Color" & "Field Text Color" to allow more contol of the form input fields.<br> 
