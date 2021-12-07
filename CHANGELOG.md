@@ -13,8 +13,12 @@ All notable changes to this project will be documented in this file.
   - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" for witsec Mailform Extension v12.x - Block v2.0.</b><br> 
     - Added new gear icon setting "Button Shadow Color". Also set it to only display if both "Floating Button [See Block HELP]" and "Button Shadow" options are both enbled.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-button-shadow-col-v2.0.jpg)<br>
-    - Y.<br>
+    - Added new gear icon setting "Show Spare button". if enabled it will display a second button which is displayed next to the "SEND MESSAGE" submit button. This second button could be configuired in several ways dependant on the website in question. If inserting an icon also, you will need to use a combination of the icon size setting and also the "Send Btn Textt Size" within the gear icon to get the best layout. The example here shows it as a "Telephone" button.<br> 
+    ![alt text](hhttps://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-spare-button-v2.0.jpg)<br>
     - Z.<br>
+
+
+
 
     The various gear icon fields available. A sample of the fields available can be seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
      
