@@ -14,7 +14,7 @@ All notable changes to this project will be documented in this file.
     - Added new gear icon setting "Button Shadow Color". Also set it to only display if both "Floating Button [See Block HELP]" and "Button Shadow" options are both enbled.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-button-shadow-col-v2.0.jpg)<br>
     - Added new gear icon setting "Show Spare button". if enabled it will display a second button which is displayed next to the "SEND MESSAGE" submit button. This second button could be configuired in several ways dependant on the website in question. If inserting an icon also, you will need to use a combination of the icon size setting and also the "Send Btn Textt Size" within the gear icon to get the best layout. The example here shows it as a "Telephone" button.<br> 
-    ![alt text](hhttps://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-spare-button-v2.0.jpg)<br>
+    ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-spare-button-v2.0.jpg)<br>
     - Z.<br>
 
 
