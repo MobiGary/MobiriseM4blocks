@@ -11,7 +11,7 @@ All notable changes to this project will be documented in this file.
     The various gear icon fields available in this version of the block can be seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configurable-menu-v3.6.jpg.<br>
      
   - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" for witsec Mailform Extension v12.x - Block v2.0.</b><br> 
-    - Modified "Bordr box-shadow color" gear icon setting to only display ifboth "Floating Button [See Block HELP]" and "Button Shadow" options both enbled.<br> 
+    - Modified "Button Shadow Color" gear icon setting to only display if both "Floating Button [See Block HELP]" and "Button Shadow" options both enbled.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/border-box-shadow-col-v2.0.jpg)<br>
     - Y.<br>
     - Z.<br>
