@@ -17,7 +17,7 @@ All notable changes to this project will be documented in this file.
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-spare-btn-v2.0.jpg)<br>
     - Added new gear icon setting "Bar Close X Size" to allow fine control over the size of the X top right of the floating form.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-X-close-size-v2.0.jpg)<br>
-    - Added new gear icon settings "Field background Color", "Field Placeholder Color" & "Filed Text Color" to allow more contol of the form input fields.<br> 
+    - Added new gear icon settings "Field Background Color", "Field Placeholder Color" & "Field Text Color" to allow more contol of the form input fields.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-field-col-new-v2.0.jpg)<br>
 
 
