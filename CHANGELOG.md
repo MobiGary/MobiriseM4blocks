@@ -15,7 +15,7 @@ All notable changes to this project will be documented in this file.
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-button-shadow-col-v2.0.jpg)<br>
     - Added new gear icon setting "Show Spare button". if enabled it will display a second button which is displayed next to the "SEND MESSAGE" submit button. This second button could be configuired in several ways dependant on the website in question. If inserting an icon also, you will need to use a combination of the icon size setting and also the "Send Btn Textt Size" within the gear icon to get the best layout. The example here shows it as a "Telephone" button.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-spare-btn-v2.0.jpg)<br>
-     - Modified HTML code so that the delete button option is not available on the Mobirise button menu for "SEND MESSAGE" and "SPARE" buttons. this has been done to prevemt users accidentally deleting a button and to ensure they control SPARE button on/off via gear icon.
+     - Modified HTML code so that the delete button option is not available on the Mobirise button menu for "SEND MESSAGE" and "SPARE" buttons. this has been done to prevemt users accidentally deleting a button and to ensure they control SPARE button on/off via gear icon.<br>
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-btn-delete-removed-v2.0.jpg)<br>
     - Added new gear icon setting "Bar Close X Size" to allow fine control over the size of the X top right of the floating form.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-X-close-size-v2.0.jpg)<br>
