@@ -21,6 +21,8 @@ All notable changes to this project will be documented in this file.
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-X-close-size-v2.0.jpg)<br>
     - Added new gear icon settings "Field Background Color", "Field Placeholder Color" & "Field Text Color" to allow greater control of the form input fields.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-field-col-new-v2.0.jpg)<br>
+    - Added new gear icon settings "SEND btn Padding Top/Bottom" & "SEND btn Padding Left/Right" to allow greater control of the button layout.<br> 
+    ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-padding-v2.0.jpg)<br>
 
     Various gear icon fields available. A sample of the fields available can be seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
      
