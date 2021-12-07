@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 ## Version 4.4 - MobiGaryExtension-v4.4.mbrext (COMING SOON)
-- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
+- Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
   - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.6.</b><br>
     - Block unchanged in this v4.3 extension release. Block remains at v3.6.
@@ -30,7 +30,7 @@ All notable changes to this project will be documented in this file.
 **Download**: COMING SOON
 
 ## Version 4.3 - MobiGaryExtension-v4.3.mbrext (2021-NOVEMBER-27)
-- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
+- Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
   - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.6.</b><br>
     - Block unchanged in this v4.3 extension release. Block remains at v3.6.
@@ -58,7 +58,7 @@ All notable changes to this project will be documented in this file.
 
 
 ## Version 4.2 - MobiGaryExtension-v4.2.mbrext (2021-NOVEMBER-16)
-- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
+- Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
   - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.6.</b><br>
     - Block unchanged in this v4.2 extension release. Block remains at v3.6.
@@ -73,7 +73,7 @@ All notable changes to this project will be documented in this file.
 
 
 ## Version 4.1 - MobiGaryExtension-v4.1.mbrext (2021-NOVEMBER-10)
-- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
+- Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
   - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - v3.6.</b><br>
     - Added "Menu Top Margin on scroll sticky px" gear icon option for users who wish to have a gap appear above the menu when scrolled if “MM Sticky” and “Menu Top Margin on scroll sticky px” are configured. The default for “Menu Top Margin on scroll sticky px” is 0 so no gap is shown by default when “MM Sticky” selected.
@@ -86,7 +86,7 @@ All notable changes to this project will be documented in this file.
     - **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
 ## Version 4.0 - MobiGaryExtension-v4.0.mbrext (2021-OCTOBER-23)
-- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
+- Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
   - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.5.</b><br>
     - Modified menu block HTML to allow a link from the menu icons (if enabled) to close the mobile hamburger menu correctly if the link is to a block on the page. Previously, in mobile hambuger mode, a link to a block on the page from an icon in the menu would correctly skip to the block specified, but would not close the menu itself. This icon DIV was originally intended to link to external resources only (e.g. for social media) so this was not an issue if only used for an external URL. 
@@ -96,7 +96,7 @@ All notable changes to this project will be documented in this file.
     - Prerequisites: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
 ## Version 3.9 - MobiGaryExtension-v3.9.mbrext (2021-OCTOBER-01)
-- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
+- Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
   - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.4.</b><br>
     - Unchanged in this release.
@@ -106,7 +106,7 @@ All notable changes to this project will be documented in this file.
     - Prerequisites: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
 ## Version 3.8 - MobiGaryExtension-v3.8.mbrext (2021-SEPTEMBER-19)
-- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
+- Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
   - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.4.</b><br>
     - Unchanged in this release.
@@ -124,7 +124,7 @@ All notable changes to this project will be documented in this file.
     - Prerequisites: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
 ## Version 3.7 - MobiGaryExtension-v3.7.mbrext (2021-AUGUST-10)
-- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
+- Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
   - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.4.</b><br>
     - Unchanged in this release.
@@ -137,7 +137,7 @@ All notable changes to this project will be documented in this file.
 
 
 ## Version 3.6 - MobiGaryExtension-v3.6.mbrext (2021-AUGUST-01)
-- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
+- Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
   - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.4.</b><br>
     - Made block ready for when Mobirise releases live versions of its Bootstrap 5 builder and bootstrap 5 based themes (curently 5.3.15 beta with "Mobirise 5" or "GlassM5"). Several HTML and CSS changes.
@@ -149,7 +149,7 @@ All notable changes to this project will be documented in this file.
 
 
 ## Version 3.5 - MobiGaryExtension-v3.5.mbrext (2021-APRIL-17) 
-- Various cog options are availabe to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
+- Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS. 
 
   - <b>BLOCK 1: MobiGary Configurable Mobirise Bootstrap Menu v3.3.</b><br>
     - Unchanged in this release.
