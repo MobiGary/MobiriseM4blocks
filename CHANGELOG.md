@@ -26,6 +26,8 @@ https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryMen
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-field-col-new-v2.0.jpg)<br>
     - Added new gear icon settings "SEND btn Padding Top/Bottom" & "SEND btn Padding Left/Right" to allow greater control of the button layout.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-padding-v2.0.jpg)<br>
+    - Modified CSS to handle sizing if socuial icons (if used) better.<br> 
+    ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-padding-v2.0.jpg)<br>
 
     Various gear icon fields available. A sample of the fields available can be seen here (note: image from v1.9, not 2.0 so some new fields in v2.0 are not shown): https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
     
