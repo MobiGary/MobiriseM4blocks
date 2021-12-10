@@ -22,13 +22,13 @@ https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryMen
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-socicon-v2.0.jpg)<br>
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-spare-btn-v2.0.jpg)<br>
      - Modified HTML code so that the delete button option is not available on the Mobirise option menu for "SEND MESSAGE" and "SPARE" buttons. This has been changed to prevent accidental deletion of a button and to ensure the SPARE button is controlled by using the on/off option in the gear icon.<br>
+     - Added new gear icon settings "SEND btn Padding Top/Bottom" & "SEND btn Padding Left/Right" to allow greater control of the button layout.<br> 
+    ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-padding-v2.0.jpg)<br>
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-btn-delete-removed-v2.0.jpg)<br>
     - Added new gear icon setting "Bar Close X Size" to allow fine control over the size of the X top right of the floating form.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-X-close-size-v2.0.jpg)<br>
     - Added new gear icon settings "Field Background Color", "Field Placeholder Color" & "Field Text Color" to allow greater control of the form input fields.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-field-col-new-v2.0.jpg)<br>
-    - Added new gear icon settings "SEND btn Padding Top/Bottom" & "SEND btn Padding Left/Right" to allow greater control of the button layout.<br> 
-    ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-padding-v2.0.jpg)<br>
 
 
     Various gear icon fields available. A sample of the fields available can be seen here (note: image from block v1.9 so some new fields in block v2.0 are not shown): https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
