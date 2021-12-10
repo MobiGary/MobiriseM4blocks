@@ -17,6 +17,9 @@ https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryMen
     - Added new gear icon setting "Button Shadow Color". Also set it to only display if both "Floating Button [See Block HELP]" and "Button Shadow" options are both enabled.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-button-shadow-col-v2.0.jpg)<br>
     - Added new gear icon setting "Show Spare Button". If enabled it will display a second button which is displayed next to the "SEND MESSAGE" submit button. This second button could be configured in several ways dependant on the website in question. If inserting an icon also, you will need to use a combination of the icon size setting and also the "Send Btn Text Size" within the gear icon to get the best layout. The example here shows it as a "Telephone" button.<br> 
+    - Modified the CSS settings which control placement of social icons (if used). Using the combination of "Icon Size" and "SEND btn Text Size" setting you can configure how the icons look in relation to the font size. One example shown below:<br> 
+    ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-socicon-settings-v2.0.jpg)<br><br>
+    ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-socicon-v2.0.jpg)<br>
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-spare-btn-v2.0.jpg)<br>
      - Modified HTML code so that the delete button option is not available on the Mobirise option menu for "SEND MESSAGE" and "SPARE" buttons. This has been changed to prevent accidental deletion of a button and to ensure the SPARE button is controlled by using the on/off option in the gear icon.<br>
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-btn-delete-removed-v2.0.jpg)<br>
@@ -26,9 +29,7 @@ https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryMen
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-field-col-new-v2.0.jpg)<br>
     - Added new gear icon settings "SEND btn Padding Top/Bottom" & "SEND btn Padding Left/Right" to allow greater control of the button layout.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-padding-v2.0.jpg)<br>
-    - Modified the CSS settings which control placement of social icons (if used). Using the combination of "Icon Size" and "SEND btn Text Size" setting you can configure how the icons look in relation to the font size. One example shown below:<br> 
-    ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-socicon-settings-v2.0.jpg)<br><br>
-    ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-socicon-v2.0.jpg)<br>
+
 
     Various gear icon fields available. A sample of the fields available can be seen here (note: image from block v1.9 so some new fields in block v2.0 are not shown): https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
     
