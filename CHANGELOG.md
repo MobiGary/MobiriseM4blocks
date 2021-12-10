@@ -13,8 +13,6 @@ All notable changes to this project will be documented in this file.
     Screenshot of a sample block configuration:
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryMenu-overview.jpg
 
-
-    
   - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" for witsec Mailform Extension v12.x - Block v2.0.</b><br> 
     - Added new gear icon setting "Button Shadow Color". Also set it to only display if both "Floating Button [See Block HELP]" and "Button Shadow" options are both enabled.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-button-shadow-col-v2.0.jpg)<br>
