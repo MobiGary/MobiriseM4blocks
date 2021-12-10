@@ -1,10 +1,10 @@
 # MobiGary Configurable Mobirise M4 Blocks
 
 ## <b>Latest Version</b><br>
-v4.3 as detailed in the changelog:
+v4.4 as detailed in the changelog:
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/CHANGELOG.md
 
-**Download**: https://github.com/MobiGary/MobiriseM4blocks/raw/main/MobiGaryExtension-v4.3.mbrext
+**Download**: https://github.com/MobiGary/MobiriseM4blocks/raw/main/MobiGaryExtension-v4.4.mbrext
 
 ## <b>Compatibility</b><br>
 This extension works with Mobirise themes based on Bootstrap 4 (AMP not supported). It might work on other versions, but no guarantees.
