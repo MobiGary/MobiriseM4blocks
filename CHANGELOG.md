@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file.
     Screenshot of a sample block configuration:
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryMenu-overview.jpg
 
+
     
   - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" for witsec Mailform Extension v12.x - Block v2.0.</b><br> 
     - Added new gear icon setting "Button Shadow Color". Also set it to only display if both "Floating Button [See Block HELP]" and "Button Shadow" options are both enabled.<br> 
@@ -28,7 +29,7 @@ https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryMen
     - Added new gear icon settings "SEND btn Padding Top/Bottom" & "SEND btn Padding Left/Right" to allow greater control of the button layout.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-padding-v2.0.jpg)<br>
 
-    Various gear icon fields available. A sample of the fields available can be seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
+    Various gear icon fields available. A sample of the fields available can be seen here (note: image from v1.9, not 2.0 so some new fields in v2.0 are not shown): https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
     
     Screenshot of a sample block configuration:
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryFloatingContactFrmOverview2.jpg
