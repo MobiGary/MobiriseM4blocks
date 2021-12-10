@@ -26,7 +26,7 @@ https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryMen
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-field-col-new-v2.0.jpg)<br>
     - Added new gear icon settings "SEND btn Padding Top/Bottom" & "SEND btn Padding Left/Right" to allow greater control of the button layout.<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-padding-v2.0.jpg)<br>
-    - Modified CSS to handle sizing if socuial icons (if used) better. Using the combination of iconsize and "SEND btn Text Size" setting you can configure how the icons look in relation to the font size. One example shown below:<br> 
+    - Modified CSS settings which handle size and alignement of social icons (if used)r. Using the combination of "iconsize" and "SEND btn Text Size" setting you can configure how the icons look in relation to the font size. One example shown below:<br> 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-socicon-settings-v2.0.jpg)<br><br>
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-socicon-v2.0.jpg)<br>
 
