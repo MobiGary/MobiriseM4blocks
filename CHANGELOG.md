@@ -23,7 +23,7 @@ https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryFlo
      
 **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
-**Download**: https://github.com/MobiGary/MobiriseM4blocks/raw/main/MobiGaryExtension-v4.4.mbrext
+**Download**: https://github.com/MobiGary/MobiriseM4blocks/raw/main/MobiGaryExtension-v4.5.mbrext
 
 ## Version 4.4 - MobiGaryExtension-v4.4.mbrext (2021-DECEMBER-10)
 - Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
@@ -61,7 +61,6 @@ https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryFlo
      
 **Prerequisites**: This version of the floating button/form is only compatible with witsec mailform extension release version 12 (or higher) [URL here https://witsec.nl/extension-mailform.html]
 
-**Download**: https://github.com/MobiGary/MobiriseM4blocks/raw/main/MobiGaryExtension-v4.4.mbrext
 
 ## Version 4.3 - MobiGaryExtension-v4.3.mbrext (2021-NOVEMBER-27)
 - Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
