@@ -14,7 +14,7 @@ All notable changes to this project will be documented in this file.
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryMenu-overview.jpg
 
   - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" for witsec Mailform Extension v12.x - Block v2.1.</b><br> 
-    - Modified gear icon slider settings and CSS for "SEND btn Padding Top/Bottom" and "SEND btn Padding Left/Right" settings. This now allows the user to set a smaller minimum value of 5 and also the CSS changes fix compatibility with some M5 themes there the space was not equal top and botton of button text when the default caluses were changed.
+    - Modified gear icon slider "minimum" settings and CSS for "SEND btn Padding Top/Bottom" and "SEND btn Padding Left/Right" settings. This now allows the user to set a smaller minimum value of 5 and also the CSS changes fix compatibility with some M5 themes there the space was not equal top and botton of button text when the default caluses were changed.
 
     Various gear icon fields available. A sample of the fields available can be seen here (note: image from block v1.9 so some new fields in block v2.0 are not shown): https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
     
