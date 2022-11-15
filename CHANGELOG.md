@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file.
 
       ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configuration-menu-v3.7.jpg)<br>
 
-    The various gear icon fields available in this version of the block can be seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configurable-menu-v3.6.jpg.<br>
+    The various gear icon fields available in this version of the block can be seen here (note: image from block v3.6 so some new fields in block v3.7 are not shown): https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configurable-menu-v3.6.jpg.<br>
     
     Screenshot of a sample block configuration:
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryMenu-overview.jpg
