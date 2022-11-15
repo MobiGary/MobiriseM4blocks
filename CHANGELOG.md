@@ -8,7 +8,7 @@ All notable changes to this project will be documented in this file.
   - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.7.</b><br>
     - Addded 2 new fields "HM Logo Size" and "HM Logo Sze Scroll Sticky" in gear icon to allow fine control of menu logo size in Hamburger menu in addition to the Main Menu when in Desktop view
 
-    ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configuration-menu-v3.7.jpg)<br>
+      ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configuration-menu-v3.7.jpg)<br>
 
     The various gear icon fields available in this version of the block can be seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configurable-menu-v3.6.jpg.<br>
     
