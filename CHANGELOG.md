@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 - Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
   - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.7.</b><br>
-    - Addded tow new fields in gear icon
+  - Addded tow new fields "HM Logo Size" and "HM Logo Sze Scroll Sticky" in gear icon to allow fine control of menu logo size in Hamburger menu in addition to the Main Menu when in Desktop view
 
     ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configuration-menu-v3.7.jpg)<br>
 
