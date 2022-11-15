@@ -1,7 +1,7 @@
 # MobiGary Configurable Mobirise M4 Blocks
 
 ## <b>Latest Version</b><br>
-v4.5 as detailed in the changelog:
+v4.6 as detailed in the changelog:
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/CHANGELOG.md
 
 **Download**: https://github.com/MobiGary/MobiriseM4blocks/raw/main/MobiGaryExtension-v4.5.mbrext
