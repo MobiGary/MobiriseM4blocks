@@ -18,8 +18,6 @@ https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/MobiGaryMen
   - <b>BLOCK 2: "MobiGary Configurable Mobirise Bootstrap Floating Contact Form" for witsec Mailform Extension v12.x - Block v2.1.</b><br>
     - Block unchanged in this v4.6 extension release. Block remains at v2.1.
 
-    ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/floating-form-buttons-padding-v2.0.jpg)<br>
-    
     Various gear icon fields available. A sample of the fields available can be seen here (note: image from block v1.9 so some new fields in block v2.0 and v2.1 are not shown): https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-floating-form-v1.9.jpg.<br>
     
     Screenshot of a sample block configuration:
