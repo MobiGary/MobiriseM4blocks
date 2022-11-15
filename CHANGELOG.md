@@ -6,7 +6,9 @@ All notable changes to this project will be documented in this file.
 - Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
   - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.7.</b><br>
-    - Bla bla bla TBC
+    - Addded tow new fields in gear icon
+
+    ![alt text](https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configuration-menu-v3.7.jpg)<br>
 
     The various gear icon fields available in this version of the block can be seen here: https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configurable-menu-v3.6.jpg.<br>
     
