@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 
-## Version 4.7 - MobiGaryExtension-v4.6.mbrext (2022-NOVEMBER-15)
+## Version 4.7 - MobiGaryExtension-v4.6.mbrext (2023-JULY-25)
 - Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
   - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.8.</b><br>
