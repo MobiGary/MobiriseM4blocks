@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file.
 - Various cog options are available to make settings of both blocks quicker to apply and provide flexibility for those Mobirise builder users who are not so comfortable editing HTML & CSS. 
 
   - <b>BLOCK 1: "MobiGary Configurable Mobirise Bootstrap Menu" - Block v3.8.</b><br>
-    - Addded new fields to allow setting of Sub Menu Text Hover Color, Sub Menu Background Hover Color & Sub Menu Background Opacity in gear icon to allow fine control of sub manu items in Desktop view.
+    - Addded new fields to allow setting of Sub Menu Text Hover Color, Sub Menu Background Hover Color & Sub Menu Background Opacity in gear icon to allow fine control of sub menu items in Desktop view.
 
     The various gear icon fields available in this version of the block can be seen here (note: image from block v3.6 so some new fields in block v3.7 & v3.8 are not shown): https://github.com/MobiGary/MobiriseM4blocks/blob/main/assets/images/cog-configurable-menu-v3.6.jpg.<br>
     
